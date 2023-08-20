@@ -1,1 +1,2 @@
-# Calculator
+CALCULATOR using JS 🔥
+Awesome App
